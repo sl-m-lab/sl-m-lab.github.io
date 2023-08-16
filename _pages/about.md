@@ -10,3 +10,5 @@ redirect_from:
 
 
 
+
+This is a lab focused on understanding how we engage in communicative processes - negotiation, grounding, and other joint actions. 
