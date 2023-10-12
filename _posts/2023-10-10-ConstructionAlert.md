@@ -4,6 +4,7 @@ date: 2013-08-14
 permalink: /posts/2023-10-ConstructionAlert/
 tags:
   - blog
+  - notes
 
 ---
 
