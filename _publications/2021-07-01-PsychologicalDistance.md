@@ -1,7 +1,7 @@
 ---
 title: "Psychological distance in mobile telepresence"
 collection: publications
-permalink:/publication/2021-07-01-PsychologicalDistance
+permalink: /publication/2021-07-01-PsychologicalDistance
 date: 2021-07
 venue: 'International Journal of Human Computer Studies'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
