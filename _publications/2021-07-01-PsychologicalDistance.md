@@ -1,5 +1,5 @@
 ---
-title: "Look, Dude: How hyperpartisan and non-hyperpartisan speech differ in online commentary"
+title: "Psychological distance in mobile telepresence"
 collection: publications
 permalink: /publications/2021-07-01-PsychologicalDistance
 excerpt: 
